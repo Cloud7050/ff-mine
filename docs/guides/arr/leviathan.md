@@ -166,6 +166,6 @@ Slam
   - As per the breakpoint skip, 4 Gyres will still spawn immediately, just that such timing feels unexpected
   - After the combo, he resumes his rotation as usual (from 4 Wave Spumes, then that 1 dive combo again etc.)
 
-<img class="border" src="dodge-2-dives.png" width="700" />
+<img class="border" src="./dodge-2-dives.png" width="700" />
 
-<img class="border" src="dodge-converter.png" width="700" />
+<img class="border" src="./dodge-converter.png" width="700" />
