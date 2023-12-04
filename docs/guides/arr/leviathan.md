@@ -4,6 +4,20 @@ layout: page
 permalink: /leviathan
 ---
 
+This guide is highly detailed. Click your role below if you just want the TLDR version:\
+[![](/images/icons/tank.png)](leviathan-tldr-tank)
+[![](/images/icons/healer.png)](leviathan-tldr-healer)
+[![](/images/icons/dps.png)](leviathan-tldr-dps)
+
+---
+
+This guide is split into sections:
+
+- [**What**](#what) the mechanics are
+- [**When**](#when) they happen
+- [**How**](#how) to beat them, i.e. the strat
+- [Other tips](#other-tips) (extra reading)
+
 ## What
 
 **Phase 1**\
@@ -54,7 +68,7 @@ Once aggroed, stops stealing charge and tethers to its target instead, inflictin
 
 - Aqua Burst: Detonates itself in a proximity raidwide. Happens 32s after first tethering (10s after you stop sliding from Slam)
 
-## Water Jets
+### Water Jets
 
 Both Slam and Dive are telegraphed by a water jet.
 
@@ -78,6 +92,8 @@ There are exceptions where the boss will only do the first dive:
 
 e.g if he disappears from the N and wants to dive twice, the first dive will be from the N group and the second from the S group.\
 e.g. if he disappears from the S and wants to do his converter dive, it will be 1 of the 2 vertical dives from the S.
+
+---
 
 ## When
 
@@ -126,6 +142,8 @@ Slam\
 ~~2 Tidal Roars~~\
 ~~3 Grand Falls, 2 dives~~
 
+---
+
 ## How
 
 **Phase 0**
@@ -158,6 +176,8 @@ Slam\
 **Phase 3**
 
 - Remember to chain stun and burn the last Wavetooth asap. If too many are dead to kill it quickly, dps LB if you really must. It can easily hysteria everyone off the ship
+
+---
 
 ## Other Tips
 
