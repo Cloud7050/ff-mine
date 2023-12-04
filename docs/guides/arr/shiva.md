@@ -36,7 +36,7 @@ Blade:
 - Icebrand: Group soak cleave
 - Heavenly Strike: Raidwide that knocks both tanks back a fair distance
 - Glacial Bash: Dodgeable cleave with a castbar. Stuns for 4s
-- Whiteout: Donut AoE
+- Whiteout: Untelegraphed donut AoE
 
 After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
 
