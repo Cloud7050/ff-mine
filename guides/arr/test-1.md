@@ -1,5 +1,5 @@
 ---
-title: Test 1
+permalink: /guide
 ---
 
 # Test 1
