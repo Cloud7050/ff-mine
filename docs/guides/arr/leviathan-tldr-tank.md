@@ -28,7 +28,7 @@ The boss has a head that reflects ranged physical damage, and a tail that reflec
 Then, a Wavetooth Sahagin will spawn, which OT should again grab. It must be burnt asap as it has 2 hysteria attacks. OT should stun it the moment it drops below 80% HP. At <70% HP, it will immediately start casting Dreadstorm, during which it is immune to stun.
 
 <img class="border" src="images/leviathan-gyre-spume.png" width="200" />\
-Later, 4 Gyre Spumes will spawn. Keep 1 Gyre alive until the boss disappears to start 2 dives, then kill it.
+Later, 4 Gyre Spumes will spawn (shown above). Keep 1 Gyre alive until the boss disappears to start 2 dives, then kill it.
 
 The boss will reappear briefly, then disappear again for 1 vertical dive. Press the converter quickly to survive Tidal Wave.
 
