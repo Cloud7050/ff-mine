@@ -64,7 +64,7 @@ Cannot move. Reduces charge (Elemental Conversion) while alive.
 - Splash: Raidwide. Happens when killed
 
 Elemental Converter:\
-<img class="border" src="images/leviathan-elemental-converter.png" width="300" />\
+<img class="border" src="images/leviathan-elemental-converter.png" width="250" />\
 Slowly gains charge over time. Becomes operable once all Gyres are dead.\
 Spends charge when interacted with to create a short-lived barrier, which mitigates Tidal Wave. Higher charge improves the mitigation; at least ~24 charge is needed for the party to survive.
 
@@ -79,7 +79,7 @@ Has almost double the health of a Gyre, but dies on its own 32s after first teth
 ### Water Jets
 
 Both Slam and Dive are telegraphed by a water jet:\
-<img class="border" src="images/leviathan-water-jet.png" height="700" />
+<img class="border" src="images/leviathan-water-jet.png" height="300" />
 
 Slam has 4 possible jet locations (NE/NW/SE/SW), which is where the head will reappear from. It either knocks everyone to the north or south.
 
