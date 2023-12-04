@@ -12,7 +12,7 @@ These guides compile my findings from having run and tested the content. Hopeful
 ## A Realm Reborn
 
 - [Leviathan | The Whorleater (Extreme)\
-  ![](/images/banners/leviathan.png)](leviathan)
+  ![](images/banners/leviathan.png)](leviathan)
 
 ---
 

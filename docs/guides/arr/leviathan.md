@@ -5,9 +5,9 @@ permalink: /leviathan
 ---
 
 This guide is highly detailed. Click your role below if you just want the TLDR version:\
-[![](/images/icons/tank.png)](leviathan-tldr-tank)
-[![](/images/icons/healer.png)](leviathan-tldr-healer)
-[![](/images/icons/dps.png)](leviathan-tldr-dps)
+[![](../../images/icons/tank.png)](leviathan-tldr-tank)
+[![](../../images/icons/healer.png)](leviathan-tldr-healer)
+[![](../../images/icons/dps.png)](leviathan-tldr-dps)
 
 ---
 
