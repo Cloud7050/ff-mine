@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<meta charset="UTF-8">
+		{% seo %}
+
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+		<link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#157878">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	</head>
+
+	<body>
+		<header class="page-header" role="banner">
+			<h1 class="project-name">{{ page.title | default: Guide }}</h1>
+		</header>
+
+		<main id="content" class="main-content" role="main">
+			<a href="{{ site.github.url }}" class="btn">Back to Home</a>
+
+			{{ content }}
+
+			<footer class="site-footer">
+				<span class="site-footer-credits">
+					Feedback? Bugs? <a href="https://github.com/Cloud7050/ff-mine/issues">File an issue</a>, PM me on Discord @ cloud7050, or <a href="https://discord.com/invite/Ea7qqaxUyJ">join the Discord server</a> to discuss.
+				</span>
+			</footer>
+		</main>
+	</body>
+</html>
