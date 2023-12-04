@@ -30,8 +30,7 @@ This fight involves the boss equipping weapons (Blade/Staff/Bow), which determin
 
 - Icicle Impact (Staggered): Covers the ground with 5 circle AoEs including the centre, then another 3 sequentially, leaving only 1 safe spot. Each inflicts a 90s vuln stack
 
-Blade:\
-After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
+Blade:
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Blunt Resistance Down stack (makes target weaker to Staff Attacks)
 - Icebrand: Group soak cleave
@@ -39,12 +38,15 @@ After equipping, the boss immediately turns to her top enmity target and uses Ic
 - Glacial Bash: Dodgeable cleave with a castbar. Stuns for 4s
 - Whiteout: Donut AoE
 
-Staff:\
-After equipping, the boss immediately casts Hailstorm.
+After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
+
+Staff:
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Slashing Resistance Down stack (makes target weaker to Blade Attacks)
 - Hailstorm: Circular AoE markers on 4 targets
 - Absolute Zero: Raidwide. Used periodically
+
+After equipping, the boss immediately casts Hailstorm.
 
 **Phase 2**\
 The boss returns to mid and spawns 4 Ice Soldier adds.
@@ -64,11 +66,12 @@ The boss reappears atop the MT. Icicle Impact now has 2 new patterns instead.
 Blade:\
 Rotation is instead Glacial Bash → Whiteout → Heavenly Strike.
 
-Bow:\
-After equipping, the boss immediately uses Glass Dance. She will not turn; she stays in the same direction she was in while equipping!
+Bow:
 
 - Glass Dance: 270° cleave that oneshots squishies. Safe area is behind her
 - Avalanche: Marks a target with a blue marker, then does a line AoE with massive knockback. Used 20s after equipping
+
+After equipping, the boss immediately uses Glass Dance. She will not turn; she stays in the same direction she was in while equipping!
 
 Ice Boulder:\
 Touching the edge of the arena now jails you in an Ice Boulder. While jailed, you have a DoT (Deep Freeze) that also makes you unable to act. Others can kill it to free you
