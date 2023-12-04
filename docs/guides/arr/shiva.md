@@ -26,12 +26,12 @@ Sections:
 - Icicle Impact (Staggered): Covers the ground with 5 circle AoEs including the centre, then another 3 sequentially, leaving only 1 safe spot. Each inflicts a 90s vuln stack
 
 Blade:\
-After equipping, the boss immediately turns to her top enmity and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
+After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Blunt Resistance Down stack (makes target weaker to Staff Attacks)
 - Icebrand: Group soak cleave
 - Heavenly Strike: Raidwide. Knocks both tanks back a fair distance
-- Glacial Bash: Dodgeable cleave with a castbar. Inflicts stun for 4s
+- Glacial Bash: Dodgeable cleave with a castbar. Stuns for 4s
 - Whiteout: Donut AoE
 
 Staff:\
@@ -42,7 +42,7 @@ After equipping, the boss immediately casts Hailstorm.
 - Absolute Zero: Raidwide. Used periodically
 
 **Phase 2**\
-This phase involves 4 Ice Soldier adds.
+4 Ice Soldier adds spawn.
 
 - Diamond Dust: The boss disappears and does a raidwide. If any adds are still alive, it's a wipe
 
@@ -52,9 +52,9 @@ Rotation is instead just Glacial Bash → Heavenly Strike.
 **Phase 3**\
 The boss reappears atop the MT. Icicle Impact now has 2 new patterns instead.
 
-- Icicle Impact (Double): Covers the ground with 4 circle AoEs, then another 5 including the centre
-- Icicle Impact (Loop): Sequentially covers the ground with circle AoEs, first covering the centre, then in a clockwise/counter-clockwise loop
-- Permafrost: Makes the floor slippery, forcing you to slip in a long straight line with each step. Also inflicts a 50s DoT (Frostbite) that cannot be cleansed. Used at irregular intervals
+- Icicle Impact (Double): Covers the ground with 4 circle AoEs. After they go off, covers the ground with another 5 circle AoEs including the centre
+- Icicle Impact (Loop): Sequentially covers the ground with circle AoEs, first covering the centre, then going in a clockwise/counter-clockwise loop
+- Permafrost: Makes the floor slippery, forcing you to slip in a long straight line with each step. Also inflicts an uncleansable 50s DoT (Frostbite). Used at irregular intervals
 
 Blade:\
 Rotation is instead Glacial Bash → Whiteout → Heavenly Strike.
@@ -63,7 +63,7 @@ Bow:\
 After equipping, the boss immediately uses Glass Dance. She will not turn; she stays in the same direction she was in while equipping!
 
 - Glass Dance: 270° cleave that oneshots squishies. Safe area is behind her
-- Avalanche: Marks a target with a blue marker, then does a line AoE with massive knockback. Used 20s in
+- Avalanche: Marks a target with a blue marker, then does a line AoE with massive knockback. Used 20s after equipping
 
 Ice Boulder:\
 Touching the edge of the arena now jails you in an Ice Boulder. While jailed, you have a DoT (Deep Freeze) that also makes you unable to act. Others can kill it to free you
@@ -80,7 +80,7 @@ Blade (sometimes Staff instead)
 Icicle Impact\
 Blade/Staff (picks the one she hasn't equipped yet)
 
-**Phase 2** <80%\
+**Phase 2** at <80% HP\
 4 Ice Soldiers, Blade
 
 *After ~1min:*\
@@ -100,8 +100,8 @@ Repeat
 ## How
 
 - <img class="border" src="images/shiva-waymarks.png" width="250" />\
-  Boss should be on A (mid), MT on B. Everyone else should stay stacked close behind the boss, to aid with Glacial Bash & Glass Dance
-  - When everyone is close to the centre, Icicle Impact/Hailstorm is easier, Whiteout is naturally resolved, and MT won't get knocked into the edge
+  Boss should be on A (mid), MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacial Bash & Glass Dance
+  - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and MT won't get knocked into the edge
 
 **Phase 1**
 
@@ -141,13 +141,14 @@ Blade:
 Staff:
 
 - Hailstorm now happens alongside the second part of Icicle Impact (Double). It's now even more important to start spreading early
-  - If you reach a safe spot early, prefer running to a corner near the edge of the arena. If you have a Hailstorm marker, you won't clip people arriving later. Similarly, you won't get clipped by someone arriving with a Hailstorm marker later
+  - If you reach a safe spot early, prefer running to a corner near the edge of the arena. This way, if you have a Hailstorm marker, you won't clip people arriving later. Similarly, you won't get clipped by someone with a Hailstorm marker arriving later
 
 Bow:
 
 - Remember that there will be Glass Dance shortly after every Icicle Impact (Loop)! Everyone must quickly get behind the boss to avoid oneshot. Don't forget sprint
   - The MT will also be dodging Icicle Impact. There is very little time to turn the boss before she starts equipping Bow and her direction is locked, so be wary as she may be facing weird
-- After Glass Dance, MT repositions boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear. The target should stay put while everyone else dodges. The line AoE should only hit the target, and they will have enough space to not get knocked into the edge
+- After Glass Dance, MT repositions boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear
+  - When the marker appears, the target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
 - After Avalanche, MT repositions boss back on A
 
 ---
@@ -156,17 +157,18 @@ Bow:
 
 - It's important to react *before* the boss finishes equipping her weapon. Watch carefully for her rising animation while equipping weapons. She will only have unique dialogue the first time she uses each weapon\
   e.g. MT missing Ice Brand can get people oneshot\
-  e.g. spreading only after seeing Hailstorm can lead to a lot of Venn diagrams\
+  e.g. spreading only after seeing Hailstorm can cause a lot of Venn diagrams\
   e.g. missing Glass Dance can kill a chunk of the party
 - The boss visibly holds her current weapon, and each comes with a unique buff icon depicting it. You can use this to track her weapon. The buffs have unique effects:
   - Blade: Regenerates HP and takes less damage
-  - Staff: Increased damage
-  - Bow: Increased crit rate
+  - Staff: Increases damage
+  - Bow: Increases crit rate
 - The ring in the centre of the arena is useful for positioning the boss on A:\
   <img class="border" src="images/shiva-ring-positioning.png" width="500" />\
-  It's also a good gauge of Whiteout's range:\
+  It's also a good gauge of Whiteout's safe spot:\
   <img class="border" src="images/shiva-whiteout-range.png" width="500" />
-- Arm's Length/Surecast is not a reliable counter to Avalanche unless you react to the marker on yourself very fast. The buff takes some time to apply, and the knockback snapshots early
 - The boss gains a buff stack between each equip, which acts as a soft enrage. There is a hard enrage at ~11min
+- Arm's Length/Surecast is not a reliable counter to Avalanche unless you react to the marker on yourself very fast. The buff takes some time to apply, and the knockback snapshots early
+- It's possible to dodge Avalanche by running through the boss, but the timing is very tight
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YTMgGl40YUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
