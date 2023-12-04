@@ -8,6 +8,11 @@ permalink: /shiva
 
 ![](../../images/banners/shiva.png)
 
+This guide is highly detailed. Click your role below if you just want that TLDR version:\
+[![](../../images/icons/tank.png)](shiva-tldr-tank)
+[![](../../images/icons/healer.png)](shiva-tldr-healer)
+[![](../../images/icons/dps.png)](shiva-tldr-dps)
+
 ---
 
 Sections:
