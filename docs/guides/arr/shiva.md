@@ -99,8 +99,8 @@ Repeat
 
 ## How
 
-- Boss should be on A (mid), MT on B. Everyone else should stay stacked close behind the boss, to aid with Glacial Bash & Glass Dance\
-  <img class="border" src="images/shiva-waymarks.png" width="250" />
+- <img class="border" src="images/shiva-waymarks.png" width="250" />\
+  Boss should be on A (mid), MT on B. Everyone else should stay stacked close behind the boss, to aid with Glacial Bash & Glass Dance
   - When everyone is close to the centre, Icicle Impact/Hailstorm is easier, Whiteout is naturally resolved, and MT won't get knocked into the edge
 
 **Phase 1**
