@@ -34,7 +34,7 @@ Blade:
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Blunt Resistance Down stack (makes target weaker to Staff Attacks)
 - Icebrand: Group soak cleave
-- Heavenly Strike: Raidwide. Knocks both tanks back a fair distance
+- Heavenly Strike: Raidwide that knocks both tanks back a fair distance
 - Glacial Bash: Dodgeable cleave with a castbar. Stuns for 4s
 - Whiteout: Donut AoE
 
@@ -44,7 +44,7 @@ Staff:
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Slashing Resistance Down stack (makes target weaker to Blade Attacks)
 - Hailstorm: Circular AoE markers on 4 targets
-- Absolute Zero: Raidwide. Used periodically
+- Absolute Zero: Raidwide that's used periodically
 
 After equipping, the boss immediately casts Hailstorm.
 

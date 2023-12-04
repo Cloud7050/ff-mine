@@ -61,7 +61,7 @@ Gyre Spume:\
 <img class="border" src="images/leviathan-gyre-spume.png" width="200" />\
 Cannot move. Reduces charge (Elemental Conversion) while alive.
 
-- Splash: Raidwide. Happens when killed
+- Splash: Raidwide that happens when killed
 
 Elemental Converter:\
 <img class="border" src="images/leviathan-elemental-converter.png" width="250" />\
@@ -74,7 +74,7 @@ Wave Spume:\
 Starts tethered to the centre and reduces charge. Once aggroed, stops reducing charge and tethers to its target instead, inflicting unstackable bleeding.\
 Has almost double the health of a Gyre, but dies on its own 32s after first tethering (10s after you stop sliding from Slam).
 
-- Aqua Burst: Proximity-based raidwide. Happens on death
+- Aqua Burst: Proximity-based raidwide that happens on death
 
 ### Water Jets
 
