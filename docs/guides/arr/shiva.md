@@ -182,3 +182,5 @@ Bow:
 - It's possible to dodge Avalanche by running through the boss, but the timing is very tight
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YTMgGl40YUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+This gameplay video also shows how to dodge Icicle Impact (Loop).
