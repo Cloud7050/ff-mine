@@ -219,4 +219,4 @@ About head/tail and damage reflection:
   - As per the breakpoint skip, 4 Gyres will still spawn immediately, just that such timing feels unexpected
   - After the combo, he resumes his rotation as usual (2 Tidal Roars, 4 Wave Spumes, then that 1 dive combo again etc.)
 
-<iframe src="https://youtu.be/2HHNnIJInFA"></iframe>
+<iframe src="https://youtube.com/embed/2HHNnIJInFA"></iframe>
