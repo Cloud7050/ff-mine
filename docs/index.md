@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Cloud's MINE Guides
 ---
 
 # Homepage
