@@ -165,21 +165,35 @@ Slam\
 - MT grabs the head. MT should stay in the corner beside the head, to point Dread Tide outside the arena
 - OT grabs the tail. OT is free to move around and grab adds
 - Melees should attack the head, as the tail has the stronger cleave. Magic ranged dps and healers should also attack the head to avoid reflected damage. Similarly, physical ranged dps should attack the tail
-- Healers should stay apart due to Waterspout. Others should avoid them. You may want to mark the healers
+- Healers should stay apart due to Waterspout. Others should avoid the healers, whom you may want to mark
+
+When Wavespines spawn:
+
+- Immediately stop attacking the boss and kill Wavespines instead
+  - If you skip ahead early (Wavetooth spawns at <80% HP), you'll have to fight all 3 Sahagin at once. You likely won't be able to kill them all before they start messing up the fight
+
+When Wavetooth spawns:
+
+- Similarly, immediately switch to killing Wavetooth. It's the most dangerous and must be burnt asap
+- OT should stun Wavetooth the moment it drops below 80% HP (at <70% HP, it will immediately start casting Dreadstorm and be immune to stun). Melees should continue to chain stun it
 - Healers need to manage their Briny Veil stacks and let them expire when the stacks get too high
   - Actions that don't heal the OT directly will not give stacks (e.g. WHM Regen, AST Synastry, SCH Embrace/Whispering Dawn)
   - Regens that also directly heal alongside applying their regen buff will give stacks (e.g. WHM Medica II, AST Aspected Benefic)
   - It's a good idea to stack a lot of regens on and save big heals for the OT, to reduce the number of actions used on them. Also, doing these actions in bursts makes it easier to let stacks expire
+
+When Gyres spawn:
+
 - Gyres should be focused one by one. e.g. Gyre at head → Gyre at tail → Gyre opposite tail → last Gyre. If you instead spread out your damage, it's bad because:
   - Too many Gyres are alive for too long. Each Gyre reduces charge while alive; you may not have enough for the converter
   - Since Gyres do a raidwide on death, killing one too soon after the previous creates burst damage that is harder to heal
-- Keep 1 Gyre alive until the boss disappears, to prevent ambiguity. The moment the boss leaves to start 2 dives, you are free to finish it off. As long as you were killing the other Gyres at a decent pace, you will have sufficient charge
-  - As you prog, you will reach a point where you sometimes skip to the converter dive (by killing all Gyres early). When the boss leaves, it becomes hard to tell whether he's going to do 2 dives, or has skipped to 1 dive + Tidal Wave. Skip checks also stop a little while before he leaves, so it may look like you killed all Gyres before he left, but you can't say for sure whether you actually skipped. Guessing wrong leads to an early/late converter press, which is a wipe, so this strat makes the fight consistent by not skipping
+- Keep 1 Gyre alive until the boss disappears, to prevent ambiguity. Once the boss disappears to start 2 dives, you are free to finish it off. As long as you were killing the other Gyres at a decent pace, you will have sufficient charge
+  - As you prog, you will reach a point where you sometimes skip to the converter dive (by killing all Gyres early). When the boss disappears, it becomes hard to tell whether he's going to do 2 dives, or has skipped to 1 dive + Tidal Wave. Skip checks also stop a little while before he disappears, so it may look like you killed all Gyres before he left, but you can't say for sure whether you actually skipped. Guessing wrong leads to an early/late converter press, which is a wipe, so this strat makes the fight consistent by not skipping
 
 **Phase 2**
 
 - Slam breaks the railings. Dives and Slams can now knock you off
-- It's not feasible to try killing Wave Spumes - just let them explode. When Wave Spumes spawn, continue killing Gyes
+- There's no need to conciously keep 1 Gyre alive anymore as you likely won't be able to kill all Gyres before the boss disappears
+- It's not feasible to try killing Wave Spumes - just let them explode. When they spawn, continue killing Gyres
 - OT grabs Wave Spumes when they spawn so they don't reduce charge. After Slam, kite them to the corner furthest from the party and pop invuln
 
 **Phase 3**
