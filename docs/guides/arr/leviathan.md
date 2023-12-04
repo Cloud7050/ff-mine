@@ -58,19 +58,19 @@ Wavetooth Sahagin:
 - Deadwash: Inflicts 5s of hysteria on everyone. Used once in a while
 
 Gyre Spume:\
-![](../../images/leviathan-gyre-spume.png)\
+<img class="border" src="images/leviathan-gyre-spume.png" width="200" />\
 Cannot move. Reduces charge (Elemental Conversion) while alive.
 
 - Splash: Raidwide. Happens when killed
 
 Elemental Converter:\
-![](../../images/leviathan-elemental-converter.png)\
+<img class="border" src="images/leviathan-elemental-converter.png" width="300" />\
 Slowly gains charge over time. Becomes operable once all Gyres are dead.\
 Spends charge when interacted with to create a short-lived barrier, which mitigates Tidal Wave. Higher charge improves the mitigation; at least ~24 charge is needed for the party to survive.
 
 **Phase 2**\
 Wave Spume:\
-![](../../images/leviathan-wave-spume.png)\
+<img class="border" src="images/leviathan-wave-spume.png" width="200" />\
 Starts tethered to the centre and reduces charge. Once aggroed, stops reducing charge and tethers to its target instead, inflicting unstackable bleeding.\
 Has almost double the health of a Gyre, but dies on its own 32s after first tethering (10s after you stop sliding from Slam).
 
@@ -79,7 +79,7 @@ Has almost double the health of a Gyre, but dies on its own 32s after first teth
 ### Water Jets
 
 Both Slam and Dive are telegraphed by a water jet:\
-![](../../images/leviathan-water-jet.png)
+<img class="border" src="images/leviathan-water-jet.png" height="700" />
 
 Slam has 4 possible jet locations (NE/NW/SE/SW), which is where the head will reappear from. It either knocks everyone to the north or south.
 
