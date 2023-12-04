@@ -8,6 +8,6 @@ defaults:
     values:
       layout: "default"
   - scope:
-    path: "./guides/"
+    path: "guides"
     values:
       layout: "page"
