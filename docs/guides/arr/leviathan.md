@@ -1,7 +1,7 @@
 ---
 title: Sample Guide
 layout: page
-permalink: /guide
+permalink: /leviathan
 ---
 
-# Test 1
+TODO
