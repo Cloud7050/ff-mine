@@ -24,6 +24,6 @@ Feedback? Bugs? Discussions?
 - Or PM me on Discord @ cloud7050
 - Or [join my static's Discord server](https://discord.gg/Ea7qqaxUyJ)
 
-[My personal list of clears](https://docs.google.com/spreadsheets/d/1jj3mOWsfWa1oLViv6CRzU6wiqkOP4emF700AFIfNbfY/edit#gid=0).
+[Click here for my personal list of clears](https://docs.google.com/spreadsheets/d/1jj3mOWsfWa1oLViv6CRzU6wiqkOP4emF700AFIfNbfY).
 
-For MINE content on Materia DC (Oceania), check out the [ExMINE Discord server](https://discord.gg/HWb5BWWgJS).
+For MINE content on Materia DC (Oceania), check out the [ExMINE community Discord server](https://discord.gg/HWb5BWWgJS).
