@@ -126,7 +126,7 @@ Blade:
 Staff:
 
 - While the boss is equipping, everyone should already start to spread for Hailstorm, including MT. Don't wait until you see the markers
-- MT then repositions boss back on A
+- MT should then reposition boss back on A
 
 **Phase 2**
 
@@ -137,7 +137,7 @@ Staff:
 
 **Phase 3**
 
-- Phase 3 always starts with a Staff equip. The MT would have built up a lot of Blunt stacks during phase 2. A tank swap at the start is required
+- A tank swap at the start is required, since the MT would have gotten many Blunt stacks in phase 2 (phase 3 always starts with a Staff equip)
 - Each weapon now lasts ~45s instead of being triggered by breakpoints. Continue to tank swap based on her weapon
 - Permafrost is generally used towards the end of each weapon rotation, but not always. The boss sometimes uses it with no weapon, or early in the weapon rotation. She will not use it during the first Staff equip
   - Try to stay still once you are in position and not fidget
@@ -146,7 +146,7 @@ Staff:
 Blade:
 
 - Icebrand happens at the start of the second part of Icicle Impact (Double). Stay stacked for MT to do the group soak before you dodge
-- After Heavenly Strike, MT repositions boss back on A
+- After Heavenly Strike, MT should reposition boss back on A
 
 Staff:
 
@@ -157,9 +157,9 @@ Bow:
 
 - Remember that there will be Glass Dance shortly after every Icicle Impact (Loop)! Everyone must quickly get behind the boss to avoid oneshot. Don't forget sprint
   - The MT will also be dodging Icicle Impact. There is very little time to turn the boss before she starts equipping Bow and her direction is locked, so be wary as she may be facing weird
-- After Glass Dance, MT repositions boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear
+- After Glass Dance, MT should reposition boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear
   - When the marker appears, the target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
-- After Avalanche, MT repositions boss back on A
+- After Avalanche, MT should reposition boss back on A
 
 ---
 
