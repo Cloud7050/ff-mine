@@ -4,8 +4,6 @@ layout: page
 permalink: /shiva
 ---
 
-# This guide is WIP
-
 ![](../../images/banners/shiva.png)
 
 This guide is highly detailed. Click your role below if you just want that TLDR version:\
