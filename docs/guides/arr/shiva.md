@@ -68,7 +68,7 @@ Rotation is instead Glacial Bash → Whiteout → Heavenly Strike.
 
 Bow:
 
-- Glass Dance: 270° cleave that oneshots squishies. Safe area is behind her
+- Glass Dance: 270° cleave that oneshots squishies. Safe area is behind the boss
 - Avalanche: Marks a target with a blue marker, then does a line AoE with massive knockback. Used 20s after equipping
 
 After equipping, the boss immediately uses Glass Dance. She will not turn; she stays in the same direction she was in while equipping!

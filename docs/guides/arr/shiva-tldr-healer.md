@@ -27,7 +27,7 @@ Blade:
 - Icebrand: Group soak cleave
 - Whiteout: Donut AoE
 
-After equipping, the boss immediately turns to MT and uses Icebrand.
+After equipping, the boss immediately uses Icebrand.
 
 Staff:
 
@@ -38,3 +38,26 @@ While the boss is equipping, everyone should spread for Hailstorm. The boss cast
 ## Phase 2
 
 The boss spawns 4 Ice Soldier adds, then equips Blade. Remember to stay stacked for Icebrand.
+
+## Phase 3
+
+Touching the edge of the arena now jails you in an Ice Boulder.
+
+Icicle Impact now has 2 new patterns instead. The boss's rotation is Icicle Impact (Double) → Staff → Icicle Impact (Loop) → Bow. This then repeats, except that Staff will sometimes be Blade.
+
+- Icicle Impact (Double): 4 circles, then another 5 circles including the centre
+- Icicle Impact (Loop): Circles that cover the centre, then go clockwise/counter-clockwise
+- Permafrost: Makes the floor slippery
+
+Blade:
+
+Icebrand happens at the second part of Icicle Impact (Double). Stay stacked for the MT to do the group soak before you dodge.
+
+Bow:
+
+- Glass Dance: 270° cleave that oneshots squishies. Safe area is behind the boss
+- Avalanche: Marks a target with a blue marker, then does a line AoE with massive knockback
+
+After every Icicle Impact (Loop), everyone must quickly get behind the boss. She will equip Bow, then immediately use Glass Dance!
+
+The MT should then reposition the boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges.
