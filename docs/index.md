@@ -16,4 +16,9 @@ These guides compile my findings from having run and tested the content. Hopeful
 
 ---
 
-Feedback? Bugs? [File an issue](https://github.com/Cloud7050/ff-mine/issues), PM me on Discord @ cloud7050, or [join the Discord server](https://discord.com/invite/Ea7qqaxUyJ) to discuss.
+Feedback? Bugs?
+- [File a GitHub issue](https://github.com/Cloud7050/ff-mine/issues)
+- PM me on Discord @ cloud7050
+- [Join my static's Discord server](https://discord.gg/Ea7qqaxUyJ)
+
+For MINE content on Materia DC (Oceania), check out the [ExMINE Discord server](https://discord.gg/HWb5BWWgJS).
