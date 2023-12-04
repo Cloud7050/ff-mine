@@ -9,10 +9,10 @@ MINE content has a niche audience. Some of the wikis/videos/other guides out the
 
 These guides compile my findings from having run and tested the content. Hopefully they're a useful enough resource to teach you how to clear the fights too.
 
-### A Realm Reborn
+## A Realm Reborn
 
 - [Leviathan | The Whorleater (Extreme)\
-  ![leviathan](images/leviathan.png)](leviathan)
+  ![](images/banners/leviathan.png)](leviathan)
 
 ---
 
