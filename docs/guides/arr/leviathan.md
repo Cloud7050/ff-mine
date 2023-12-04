@@ -22,7 +22,7 @@ Sections:
 
 ## What
 
-This fight's main mechanic is the boss's dive combos. Throughout the fight, he will disappear and use Spinning Dive(s), then reappear and use Body Slam.
+This fight's main mechanic is the boss's dive combos. Throughout the fight, he will disappear and use Spinning Dive(s), then reappear with Body Slam.
 
 - Spinning Dive: Line AoE with knockback. Does ~80% HP to squishies. Inflicts a 2min vuln stack (Water Resistance Down)
 - Body Slam: Invisible line AoE. Does ~80% HP to squishies. Tilts the arena, knocking everyone towards that side
@@ -78,15 +78,15 @@ Has almost double the health of a Gyre, but dies on its own 32s after first teth
 
 ### Water Jets
 
-Both Slam and Dive are telegraphed by a water jet:\
+Both Slam and Dive are telegraphed by water jets:\
 <img class="border" src="images/leviathan-water-jet.png" height="300" />
 
 Slam has 4 possible jet locations (NE/NW/SE/SW), which is where the head will reappear from. It either knocks everyone to the north or south.
 
 Dives have 10 possible jet locations:
 
-- Vertically from the N or S, covering half the ship (2 N, 2 S)
-- Horizontally from the E or W, covering a third of the ship (E/W, NE/NW/SE/SW)
+- Vertically from the N or S, covering half the arena (2 N, 2 S)
+- Horizontally from the E or W, covering a third of the arena (E/W, NE/NW/SE/SW)
 
 We can put these possibilities into 2 groups:
 
@@ -162,7 +162,7 @@ Slam\
 
 **Phase 1**
 
-- MT grabs the head. MT should stay in the corner beside the head, to point Dread Tide off the ship
+- MT grabs the head. MT should stay in the corner beside the head, to point Dread Tide outside the arena
 - OT grabs the tail. OT is free to move around and grab adds
 - Melees should attack the head, as the tail has the stronger cleave. Magic ranged dps and healers should also attack the head to avoid reflected damage. Similarly, physical ranged dps should attack the tail
 - Healers should stay apart due to Waterspout. Others should avoid them. You may want to mark the healers
@@ -184,7 +184,7 @@ Slam\
 
 **Phase 3**
 
-- Remember to chain stun and burn the last Wavetooth asap. If too many are dead to kill it quickly, dps LB if you really must. It can easily hysteria everyone off the ship
+- Remember to chain stun and burn the last Wavetooth asap. If too many are dead to kill it quickly, dps LB if you really must. It can easily hysteria everyone off the arena
 
 ### Dodging Infographics
 
