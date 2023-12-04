@@ -50,7 +50,7 @@ Wavespine Sahagin:\
 Cannot be stunned, but can be slowed.
 
 - Hydro Shot: Leaves a light blue circle on the ground that inflicts a 9s uncleansable DoT (Dropsy). Starts to spam this if not killed in time
-- Stun Shot: Inflicts 30s of paralysis on a target. Used once in a while
+- Stun Shot: Paralyses a target for 30s. Used once in a while
 
 Wavetooth Sahagin:
 
