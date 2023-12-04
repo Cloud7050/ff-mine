@@ -5,9 +5,9 @@ plugins:
 defaults:
   - scope:
     path: ""
-  values:
-    layout: "default"
+    values:
+      layout: "default"
   - scope:
     path: "./guides/"
-  values:
-    layout: "page"
+    values:
+      layout: "page"
