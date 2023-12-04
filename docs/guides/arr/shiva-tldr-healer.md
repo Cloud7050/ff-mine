@@ -17,7 +17,7 @@ Your default state should be to stack behind the boss with everyone, to aid with
 
 ## Phase 1
 
-The boss will use Blade and Staff once each. Between them, she will use Icicle Impact.
+The boss will equip Blade and Staff once each. Between them, she will use Icicle Impact.
 
 - Icicle Impact: 8 circles that inflict vuln stacks. Wait for all circles to appear before dodging, as there will only be 1 safe spot left\
   <img class="border" src="images/shiva-icicle-impact-staggered.png" width="500" />
@@ -34,3 +34,7 @@ Staff:
 - Hailstorm: AoE markers on 4 targets
 
 While the boss is equipping, everyone should spread for Hailstorm. The boss casts it immediately after equipping.
+
+## Phase 2
+
+The boss spawns 4 Ice Soldier adds, then equips Blade. Remember to stay stacked for Icebrand.

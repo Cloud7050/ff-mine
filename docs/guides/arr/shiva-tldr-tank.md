@@ -18,7 +18,7 @@ Set waymarks as shown. The boss should be on A (mid), MT on B. OT's default stat
 
 ## Phase 1
 
-The boss will use Blade and Staff once each. Between them, she will use Icicle Impact.
+The boss will equip Blade and Staff once each. Between them, she will use Icicle Impact.
 
 - Icicle Impact: 8 circles that inflict vuln stacks. Wait for all circles to appear before dodging, as there will only be 1 safe spot left\
   <img class="border" src="images/shiva-icicle-impact-staggered.png" width="500" />
@@ -41,19 +41,15 @@ Staff:
 
 While the boss is equipping, everyone should spread for Hailstorm. The boss casts it immediately after equipping. MT then repositions boss back on A.
 
+## Phase 2
+
+The boss spawns 4 Ice Soldier adds, then equips Blade. While OT grabs adds and returns to the stack, MT should handle Icebrand and Glacial Bash.
 
 
 
 
 
 
-
-**Phase 2**
-
-- Remember that there will be Icebrand shortly after the adds spawn! Everyone should stay stacked, while OT grabs all adds and returns to the stack
-- Also don't forget Glacial Bash
-- When the boss disappears, MT should stand on A so she reappears there
-- Phase 2 only has a single Blade equip. Whoever is MT in this phase will continue to tank subsequent Blade equips, while the OT tanks Staff equips in phase 3
 
 **Phase 3**
 
@@ -89,11 +85,6 @@ Bow:
 
 
 
-
-**Phase 2**\
-The boss returns to mid and spawns 4 Ice Soldier adds.
-
-- Diamond Dust: The boss disappears and does a raidwide. If any adds are still alive, it's a wipe
 
 **Phase 3**\
 The boss reappears atop the MT. Icicle Impact now has 2 new patterns instead.
