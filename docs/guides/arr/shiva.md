@@ -99,12 +99,14 @@ Repeat
 
 ## How
 
-- Boss should be on A (mid), MT on B. Everyone else should stay stacked close behind the boss, to aid with Glacial Bash & Glass Dance [_](https://cdn.discordapp.com/attachments/460451504890052629/1179377778479616020/image.png)
+- Boss should be on A (mid), MT on B. Everyone else should stay stacked close behind the boss, to aid with Glacial Bash & Glass Dance\
+  <img class="border" src="images/shiva-waymarks.png" width="250" />
   - When everyone is close to the centre, Icicle Impact/Hailstorm is easier, Whiteout is naturally resolved, and MT won't get knocked into the edge
 
 **Phase 1**
 
-- For Icicle Impact (Staggered), wait in the centre until all circles have appeared before trying to dodge. Don't forget sprint [_](https://cdn.discordapp.com/attachments/460451504890052629/1179375758343426080/circles.png)
+- For Icicle Impact (Staggered), wait in the centre until all circles have appeared before trying to dodge. Don't forget sprint\
+  <img class="border" src="images/shiva-icicle-impact-staggered.png" width="500" />
 - Both weapons should be used briefly enough to not require a tank swap yet
 
 Blade:
@@ -160,8 +162,10 @@ Bow:
   - Blade: Regenerates HP and takes less damage
   - Staff: Increased damage
   - Bow: Increased crit rate
-- The ring in the centre of the arena is useful for positioning the boss on A. [_](https://cdn.discordapp.com/attachments/460451504890052629/1179449770419425320/ring.png)\
-  It's also a good gauge of Whiteout's range [_](https://cdn.discordapp.com/attachments/460451504890052629/1179449790644363384/whiteout.png)
+- The ring in the centre of the arena is useful for positioning the boss on A.\
+  <img class="border" src="images/shiva-ring-positioning.png" width="500" />\
+  It's also a good gauge of Whiteout's range\
+  <img class="border" src="images/shiva-whiteout-range.png" width="500" />
 - Arm's Length/Surecast is not a reliable counter to Avalanche unless you react to the marker on yourself very fast. The buff takes some time to apply, and the knockback snapshots early
 - The boss gains a buff stack between each equip, which acts as a soft enrage. There is a hard enrage at ~11min
 
