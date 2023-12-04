@@ -119,7 +119,7 @@ Repeat
 
 Blade:
 
-- While the boss is equipping, MT runs through her to stack with the party for Icebrand. MT then goes back to B
+- While the boss is equipping, MT should run through her to stack with the party for Icebrand. MT then goes back to B
 - For Heavenly Strike, MT should hold W to quickly reclose the distance and avoid the boss moving too much
 - MT then waits to dodge Glacial Bash by running through the boss again
 
