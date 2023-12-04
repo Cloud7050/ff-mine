@@ -113,7 +113,7 @@ Repeat
 
 **Phase 1**
 
-- For Icicle Impact (Staggered), wait in the centre until all circles have appeared before trying to dodge. Don't forget sprint\
+- For Icicle Impact (Staggered), wait in the centre for all circles to appear before dodging. Don't forget sprint\
   <img class="border" src="images/shiva-icicle-impact-staggered.png" width="500" />
 - Both weapons should be used briefly enough to not require a tank swap yet
 
@@ -126,7 +126,7 @@ Blade:
 Staff:
 
 - While the boss is equipping, everyone should already start to spread for Hailstorm, including MT. Don't wait until you see the markers
-- After Hailstorm, MT repositions boss back on A
+- MT then repositions boss back on A
 
 **Phase 2**
 
