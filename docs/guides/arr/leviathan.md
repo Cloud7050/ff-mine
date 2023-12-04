@@ -212,8 +212,7 @@ When Gyres spawn:
 
 About head/tail and damage reflection:
 
-- You can DoT both the head and tail at the same time
-- Actions that also directly damage alongside applying their DoT can have that reflected
+- You can DoT both the head and tail at the same time, though actions that also directly damage alongside applying their DoT can have that reflected
 - Tanks' and melees' ranged physical attacks will get reflected by the head
 - DRK's magic attacks will get reflected by the tail, so they should MT
 - RDMs should be careful of their damage types. e.g. Fleche is ranged physical damage
