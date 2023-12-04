@@ -28,6 +28,7 @@ The boss has a head that reflects ranged physical damage, and a tail that reflec
 
 Then, a Wavetooth Sahagin will spawn. It must be burnt asap as it has 2 hysteria attacks.
 
+<img class="border" src="images/leviathan-gyre-spume.png" width="200" />\
 Later, 4 Gyre Spumes will spawn. Keep 1 Gyre alive until the boss disappears to start 2 dives, then kill it.
 
 The boss will reappear briefly, then disappear again for 1 vertical dive. Press the converter quickly to survive Tidal Wave.
