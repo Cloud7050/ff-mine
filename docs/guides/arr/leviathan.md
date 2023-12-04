@@ -217,7 +217,7 @@ About head/tail and damage reflection:
 - DRK's magic attacks will get reflected by the tail, so they should MT
 - RDMs should be careful of their damage types. e.g. Fleche is ranged physical damage
 
-<br />
+[]()
 
 - If you get a rez during dives, you should wait till after Slam to accept it, to avoid instantly falling off/dying
 - Arm's Length/Surecast negates the knockback from Slam. You can save it as a panic button if you lose track of jets and think you're about to get knocked off
