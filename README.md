@@ -1,1 +1,1 @@
-<https://cloud7050.github.io/ff-mine/guides/homepage>
+<https://cloud7050.github.io/ff-mine/>
