@@ -33,7 +33,7 @@ The boss has 2 parts with the same healthpool - a head that reflects ranged phys
 - Waterspout: 2 untelegraphed circular AoEs. Does ~25% HP to squishies. Targets healers first
 - Grand Fall: Each use spawns multiple big, dodgeable circular AoEs. Does ~40% HP to squishies. Inflicts 30s of heavy
 - Tidal Roar: Raidwide
-- Tidal Wave: Special raidwide. Must be mitigated with the Elemental Converter (explained below) to survive. Does true damage; tank LB does not help
+- Tidal Wave: Special raidwide that must be mitigated with the Elemental Converter (explained below) to survive. Does true damage; tank LB does not help
 
 Leviathan's Head:
 
