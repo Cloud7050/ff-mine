@@ -108,8 +108,8 @@ Repeat
 ## How
 
 - <img class="border" src="images/shiva-waymarks.png" width="250" />\
-  The boss should be on A (mid), MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacial Bash & Glass Dance
-  - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and MT won't get knocked into the edge
+  The boss should be on A (mid), and the MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacial Bash & Glass Dance
+  - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and the MT won't get knocked into the edge
 
 **Phase 1**
 
@@ -119,21 +119,21 @@ Repeat
 
 Blade:
 
-- While the boss is equipping, MT should run through her to stack with the party for Icebrand. MT then goes back to B
-- For Heavenly Strike, MT should hold W to quickly reclose the distance and avoid the boss moving too much
-- MT then waits to dodge Glacial Bash by running through the boss again
+- While the boss is equipping, the MT should run through her to stack with the party for Icebrand. The MT then goes back to B
+- For Heavenly Strike, the MT should hold W to quickly reclose the distance and avoid the boss moving too much
+- The MT then waits to dodge Glacial Bash by running through the boss again
 
 Staff:
 
-- While the boss is equipping, everyone should already start to spread for Hailstorm, including MT. Don't wait until you see the markers
-- MT should then reposition boss back on A
+- While the boss is equipping, everyone should already start to spread for Hailstorm. Don't wait until you see the markers
+- The MT should then reposition the boss back on A
 
 **Phase 2**
 
-- Remember that there will be Icebrand shortly after the adds spawn! Everyone should stay stacked, while OT grabs all adds and returns to the stack
+- Remember that there will be Icebrand shortly after the adds spawn! Everyone should stay stacked, while the OT grabs all adds and returns to the stack
 - Also don't forget Glacial Bash
-- When the boss disappears, MT should stand on A so she reappears there
-- Phase 2 only has a single Blade equip. Whoever is MT in this phase will continue to tank subsequent Blade equips, while the OT tanks Staff equips in phase 3
+- When the boss disappears, the MT should stand on A so she reappears there
+- To keep debuffs separate, whoever the MT is in this phase will continue to tank subsequent Blade equips (phase 2 only has a single Blade equip), while the OT tanks Staff equips in phase 3
 
 **Phase 3**
 
@@ -145,8 +145,8 @@ Staff:
 
 Blade:
 
-- Icebrand happens at the start of the second part of Icicle Impact (Double). Stay stacked for MT to do the group soak before you dodge
-- After Heavenly Strike, MT should reposition boss back on A
+- Icebrand happens at the start of the second part of Icicle Impact (Double). Stay stacked for the MT to do the group soak before you dodge
+- After Heavenly Strike, the MT should reposition the boss back on A
 
 Staff:
 
@@ -157,16 +157,15 @@ Bow:
 
 - Remember that there will be Glass Dance shortly after every Icicle Impact (Loop)! Everyone must quickly get behind the boss to avoid oneshot. Don't forget sprint
   - The MT will also be dodging Icicle Impact. There is very little time to turn the boss before she starts equipping Bow and her direction is locked, so be wary as she may be facing weird
-- After Glass Dance, MT should reposition boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear
-  - When the marker appears, the target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
-- After Avalanche, MT should reposition boss back on A
+- After Glass Dance, the MT should reposition the boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
+- After Avalanche, the MT should reposition the boss back on A
 
 ---
 
 ## Other Tips
 
 - It's important to react *before* the boss finishes equipping her weapon. Watch carefully for her rising animation while equipping weapons. She will only have unique dialogue the first time she uses each weapon\
-  e.g. MT missing Ice Brand can get people oneshot\
+  e.g. the MT missing Ice Brand can get people oneshot\
   e.g. spreading only after seeing Hailstorm can cause a lot of Venn diagrams\
   e.g. missing Glass Dance can kill a chunk of the party
 - The boss visibly holds her current weapon, and each comes with a unique buff icon depicting it. You can use this to track her weapon. The buffs have unique effects:
