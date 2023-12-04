@@ -162,9 +162,9 @@ Bow:
   - Blade: Regenerates HP and takes less damage
   - Staff: Increased damage
   - Bow: Increased crit rate
-- The ring in the centre of the arena is useful for positioning the boss on A.\
+- The ring in the centre of the arena is useful for positioning the boss on A:\
   <img class="border" src="images/shiva-ring-positioning.png" width="500" />\
-  It's also a good gauge of Whiteout's range\
+  It's also a good gauge of Whiteout's range:\
   <img class="border" src="images/shiva-whiteout-range.png" width="500" />
 - Arm's Length/Surecast is not a reliable counter to Avalanche unless you react to the marker on yourself very fast. The buff takes some time to apply, and the knockback snapshots early
 - The boss gains a buff stack between each equip, which acts as a soft enrage. There is a hard enrage at ~11min
