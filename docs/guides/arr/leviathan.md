@@ -121,10 +121,10 @@ Tidal Roar, 3 Grand Falls, 2 dives
 
 Slam\
 *When Gyres dead skip here:*\
-Grand Fall, 1 vertical dive [press converter], Tidal Wave
+Grand Fall, 1 vertical dive [press converter], Tidal Wave (break railings)
 
 **Phase 2**\
-Slam breaks railings\
+Slam\
 2 Tidal Roars\
 2 S Wavespines\
 2 Tidal Roars, Grand Fall, 2 dives
@@ -188,10 +188,10 @@ When Gyres spawn:
   - Since Gyres do a raidwide on death, killing one too soon after the previous creates burst damage that is harder to heal
 - Keep 1 Gyre alive until the boss disappears to start 2 dives, then kill it. As long as you were killing the other Gyres at a decent pace, you will have sufficient charge
   - This is to prevent ambiguity. As you prog, you will reach a point where you sometimes skip to the converter dive (by killing all Gyres early). When the boss disappears, it becomes hard to tell whether he's going to do 2 dives, or has skipped to 1 dive + Tidal Wave. Skip checks also stop a little while before he disappears, so it may look like you killed all Gyres before he left, but you can't say for sure whether you actually skipped. Guessing wrong leads to an early/late converter press, which is a wipe, so this strat makes the fight consistent by not skipping
+- Tidal Wave at the end of the phase breaks the railings. Starting from phase 2, Dives and Slams can knock you off
 
 **Phase 2**
 
-- Slam breaks the railings. Dives and Slams can now knock you off
 - There's no need to conciously keep 1 Gyre alive anymore as you likely won't be able to kill all Gyres before the boss disappears
 - It's not feasible to try killing Wave Spumes, just let them explode
 - OT grabs Wave Spumes when they spawn so they don't reduce charge. After Slam, kite them to the corner furthest from the party and pop invuln
