@@ -68,7 +68,7 @@ Bow:
 
 After every Icicle Impact (Loop), everyone must quickly get behind the boss. She will equip Bow, then immediately use Glass Dance!
 
-The MT should then reposition the boss onto C, facing her outwards. The OT should stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges.
+The MT should then move the boss onto C, facing her outwards. The OT should stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges.
 
 After Avalanche, the MT should reposition the boss back on A.
 

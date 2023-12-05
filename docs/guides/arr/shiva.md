@@ -155,7 +155,7 @@ Bow:
 
 - Remember that there will be Glass Dance shortly after every Icicle Impact (Loop)! Everyone must quickly get behind the boss to avoid oneshot. Don't forget sprint
   - The MT will also be dodging Icicle Impact. There is very little time to turn the boss before she starts equipping Bow and her direction is locked, so be wary as she may be facing weird
-- After Glass Dance, the MT should reposition the boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
+- After Glass Dance, the MT should move the boss onto C, facing her outwards. Stack behind her and wait for the Avalanche marker to appear. The target should stand behind her while everyone else dodges. This makes the line AoE only hit the target, who will also have enough space to not get knocked into the edge
 - After Avalanche, the MT should reposition the boss back on A
 
 ---
