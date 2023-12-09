@@ -15,6 +15,8 @@ These guides compile my findings from having run and tested the content. Hopeful
   ![](images/banners/leviathan.png)](leviathan)
 - [Shiva | The Akh Afah Amphitheatre (Extreme)\
   ![](images/banners/shiva.png)](shiva)
+- [T5 | The Binding Coil of Bahamut - Turn 5\
+  ![](images/banners/t5.png)](t5)
 
 ---
 
