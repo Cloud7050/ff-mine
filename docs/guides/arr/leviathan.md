@@ -71,7 +71,7 @@ Spends charge when interacted with to create a short-lived barrier, which mitiga
 **Phase 2**\
 Wave Spume:\
 <img class="border" src="images/leviathan-wave-spume.png" width="200" />\
-Starts tethered to the centre and reduces charge. Once aggroed, stops reducing charge and tethers to its target instead, inflicting unstackable bleeding.\
+Starts tethered to the centre and reduces charge. Once aggroed, stops reducing charge and tethers to its target instead, inflicting unstackable bleeding. Does not auto-attack, but slowly follows its target.\
 Has almost double the health of a Gyre, but dies on its own 32s after first tethering (10s after you stop sliding from Slam).
 
 - Aqua Burst: Proximity-based raidwide that happens on death
