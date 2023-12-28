@@ -228,6 +228,7 @@ About head/tail and damage reflection:
 - Healers can use Rescue to save people from falling off
 - As Briny Mirror makes it costly to heal the OT, you may want to let MT grab 1 or both Wavespines instead of OT
 - If healers are struggling with stacks, you may want OT to stay in the other corner similar to MT, so it's easier for healers to AoE heal the party while avoiding OT
+- The head faces towards the arena while the tail faces away. If your healers are confident, melees may instead attack the tail. They will take more damage from its cleaves, but this lets them hit rear positionals
 - There is an edge case for the first dive combo of phase 2 (Grand Fall, 2 dives). If the boss is already leaving to start dives, but at the same time hits the <35% HP breakpoint, then his combo is instead a *duplicate* of the subsequent combo (3 Grand Falls, 1 dive)
   - This should rarely happen, but if it does, you may get caught off guard by him doing just 1 dive. As per the infographics, it is safer to dodge to the other side instead of staying in the middle, even if what you think is a dive (and not a Slam) wouldn't hit you
   - As per the breakpoint skip, 4 Gyres will still spawn immediately, just that such timing feels unexpected
