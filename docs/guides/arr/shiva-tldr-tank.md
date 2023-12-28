@@ -27,7 +27,6 @@ Blade:
 
 - Attack: Inflicts Blunt Resistance Down stacks (makes tank weaker to Staff)
 - Icebrand: Group soak cleave
-- Heavenly Strike: Raidwide that knocks both tanks back a fair distance
 - Glacier Bash: Dodgeable cleave that stuns for 4s
 
 While the boss is equipping, the MT should run through her to stack with the party. After equipping, the boss immediately uses Icebrand.
