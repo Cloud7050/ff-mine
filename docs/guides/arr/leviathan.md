@@ -223,7 +223,8 @@ About head/tail and damage reflection:
 - Arm's Length/Surecast negates the knockback from Slam. You can save it as a panic button if you lose track of jets and think you're about to get knocked off
   - Tanks may instead use it as extra mit for the Wavespines
 - The Sahagin all spawn at fixed locations which makes them predictable to watch for. Switching to them the moment they spawn is important
-- When using healer LB3, first make sure the bodies have actually respawned on the ship, since they are likely to get knocked off after each Slam
+- When using healer LB3, first ensure the bodies have respawned on the ship, as they are likely to get knocked off by Slam
+  - Don't use it during a dive combo. Animation lock is likely to get you and those you just rezzed knocked off or killed. Also, others may still die during the combo, and bodies may be in the middle of respawning
 - Healers can use Rescue to save people from falling off
 - As Briny Mirror makes it costly to heal the OT, you may want to let MT grab 1 or both Wavespines instead of OT
 - If healers are struggling with stacks, you may want OT to stay in the other corner similar to MT, so it's easier for healers to AoE heal the party while avoiding OT
