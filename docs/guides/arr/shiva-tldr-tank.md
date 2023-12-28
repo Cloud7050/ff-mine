@@ -28,11 +28,11 @@ Blade:
 - Attack: Inflicts Blunt Resistance Down stacks (makes tank weaker to Staff)
 - Icebrand: Group soak cleave
 - Heavenly Strike: Raidwide that knocks both tanks back a fair distance
-- Glacial Bash: Dodgeable cleave that stuns for 4s
+- Glacier Bash: Dodgeable cleave that stuns for 4s
 
 While the boss is equipping, the MT should run through her to stack with the party. After equipping, the boss immediately uses Icebrand.
 
-The MT then goes back to B, and waits to dodge Glacial Bash by running through the boss again.
+The MT then goes back to B, and waits to dodge Glacier Bash by running through the boss again.
 
 Staff:
 
@@ -43,7 +43,7 @@ While the boss is equipping, everyone should spread for Hailstorm. The boss cast
 
 ## Phase 2
 
-The boss spawns 4 Ice Soldier adds, then equips Blade. While the OT grabs adds and returns to the stack, the MT should handle Icebrand and Glacial Bash.
+The boss spawns 4 Ice Soldier adds, then equips Blade. While the OT grabs adds and returns to the stack, the MT should handle Icebrand and Glacier Bash.
 
 ## Phase 3
 

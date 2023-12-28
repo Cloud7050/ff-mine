@@ -33,10 +33,10 @@ Blade:
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Blunt Resistance Down stack (makes target weaker to Staff Attacks)
 - Icebrand: Group soak cleave
 - Heavenly Strike: Raidwide that knocks both tanks back a fair distance
-- Glacial Bash: Dodgeable cleave with a castbar. Stuns for 4s
+- Glacier Bash: Dodgeable cleave with a castbar. Stuns for 4s
 - Whiteout: Untelegraphed donut AoE
 
-After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacial Bash → Whiteout.
+After equipping, the boss immediately turns to her top enmity target and uses Icebrand. She then repeats the rotation Heavenly Strike → Glacier Bash → Whiteout.
 
 Staff:
 
@@ -52,7 +52,7 @@ The boss returns to mid and spawns 4 Ice Soldier adds.
 - Diamond Dust: The boss disappears and does a raidwide. If any adds are still alive, it's a wipe
 
 Blade:\
-Rotation is instead just Glacial Bash → Heavenly Strike.
+Rotation is instead just Glacier Bash → Heavenly Strike.
 
 **Phase 3**\
 The boss reappears atop the MT. Icicle Impact now has 2 new patterns instead.
@@ -62,7 +62,7 @@ The boss reappears atop the MT. Icicle Impact now has 2 new patterns instead.
 - Permafrost: Makes the floor slippery, forcing you to slip in a long straight line with each step. Also inflicts an uncleansable 50s DoT (Frostbite). Used at irregular intervals
 
 Blade:\
-Rotation is instead Glacial Bash → Whiteout → Heavenly Strike.
+Rotation is instead Glacier Bash → Whiteout → Heavenly Strike.
 
 Bow:
 
@@ -106,7 +106,7 @@ Repeat
 ## How
 
 - <img class="border" src="images/shiva-waymarks.png" width="250" />\
-  The boss should be on A (mid), and the MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacial Bash & Glass Dance
+  The boss should be on A (mid), and the MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacier Bash & Glass Dance
   - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and the MT won't get knocked into the edge
 
 **Phase 1**
@@ -119,7 +119,7 @@ Blade:
 
 - While the boss is equipping, the MT should run through her to stack with the party for Icebrand. The MT then goes back to B
 - For Heavenly Strike, the MT should hold W to quickly reclose the distance and avoid the boss moving too much
-- The MT then waits to dodge Glacial Bash by running through the boss again
+- The MT then waits to dodge Glacier Bash by running through the boss again
 
 Staff:
 
@@ -129,7 +129,7 @@ Staff:
 **Phase 2**
 
 - Remember that there will be Icebrand shortly after the adds spawn! Everyone should stay stacked, while the OT grabs all adds and returns to the stack
-- Also don't forget Glacial Bash
+- Also don't forget Glacier Bash
 - When the boss disappears, the MT should stand on A so she reappears there
 - To keep debuffs separate, whoever the MT is in this phase will continue to tank subsequent Blade equips (phase 2 only has a single Blade equip), while the OT tanks Staff equips in phase 3
 
