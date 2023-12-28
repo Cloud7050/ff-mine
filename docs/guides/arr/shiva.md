@@ -32,7 +32,7 @@ Blade:
 
 - Attack: Serves as her auto-attack. Has a chance to inflict a 2min Blunt Resistance Down stack (makes target weaker to Staff Attacks)
 - Icebrand: Group soak cleave
-- Heavenly Strike: Raidwide that knocks both tanks back a fair distance
+- Heavenly Strike: Raidwide with knockback
 - Glacier Bash: Dodgeable cleave with a castbar. Stuns for 4s
 - Whiteout: Untelegraphed donut AoE
 
@@ -106,8 +106,8 @@ Repeat
 ## How
 
 - <img class="border" src="images/shiva-waymarks.png" width="250" />\
-  The boss should be on A (mid), and the MT on B. Everyone else's default state should be to stack behind the boss, to aid with Glacier Bash & Glass Dance
-  - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and the MT won't get knocked into the edge
+  The boss should be on A (mid), and the MT on B. Everyone else's default state should be to stack behind the boss, to help resolve Glacier Bash & Glass Dance
+  - When everyone is close to the centre, Icicle Impact/Hailstorm is also easier, Whiteout is naturally resolved, and the MT won't get knocked into the edge by Heavenly Strike
 
 **Phase 1**
 
