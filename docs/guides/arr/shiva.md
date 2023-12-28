@@ -152,6 +152,7 @@ Staff:
 
 - Hailstorm now happens alongside the second part of Icicle Impact (Double). It's now even more important to start spreading early
   - If you reach a safe spot early, prefer running to a corner near the edge of the arena. This way, if you have a Hailstorm marker, you won't clip people arriving later. Similarly, you won't get clipped by someone with a Hailstorm marker arriving later
+    <img class="border" src="images/shiva-hailstorm-venn.png" width="300" />
 
 Bow:
 
