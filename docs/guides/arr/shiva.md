@@ -139,7 +139,9 @@ Staff:
 - Each weapon now lasts ~45s instead of being triggered by breakpoints. Continue to tank swap based on her weapon
 - Permafrost is generally used towards the end of each weapon rotation, but not always. The boss sometimes uses it with no weapon, or early in the weapon rotation. She will not use it during the first Staff equip
   - Try to stay still once you are in position and not fidget
-  - It has a telegraph, but you need to react fast. When the floor looks like a cyclone, stop moving immediately. Otherwise, you can easily slip into the edge of the arena and get jailed
+  - During its castbar, the floor will look like a cyclone:\
+    <img class="border" src="images/shiva-permafrost-cyclone.png" width="500" />\
+    You'll need to react fast and stop moving immediately. Otherwise, you can easily slip into the edge of the arena and get jailed
 
 Blade:
 
