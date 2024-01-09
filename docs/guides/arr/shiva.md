@@ -180,7 +180,7 @@ Bow:
   <img class="border" src="images/shiva-whiteout-range.png" width="500" />
 - The boss gains a buff stack between each equip, which acts as a soft enrage. There is a hard enrage at ~11min
 - Arm's Length/Surecast is not a reliable counter to Avalanche unless you react to the marker on yourself very fast. The buff takes some time to apply, and the knockback snapshots early
-- It's possible to dodge Avalanche by running through the boss, but the timing is very tight
+- Avalanche & Heavenly Strike will have no knockback if they do 0 damage, such as due to shields or invuln. This is similar to how mechanics in some other fights work
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YTMgGl40YUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
