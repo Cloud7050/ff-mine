@@ -17,6 +17,8 @@ These guides compile my findings from having run and tested the content. Hopeful
   ![](images/banners/shiva.png)](shiva)
 - [T5 | The Binding Coil of Bahamut - Turn 5\
   ![](images/banners/t5.png)](t5)
+- [T9 | The Second Coil of Bahamut - Turn 9\
+  ![](images/banners/t9.png)](t9)
 
 ---
 
