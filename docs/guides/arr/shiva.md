@@ -72,7 +72,7 @@ Bow:
 After equipping, the boss immediately uses Glass Dance. She will not turn; she stays in the same direction she was in while equipping!
 
 Ice Boulder:\
-Touching the edge of the arena now jails you in an Ice Boulder. While jailed, you have a DoT (Deep Freeze) that also makes you unable to act. Others can kill it to free you
+Touching the edge of the arena now jails you in an Ice Boulder. While jailed, you have a DoT (Deep Freeze) that also makes you unable to act. Others can kill it to free you.
 
 ---
 
